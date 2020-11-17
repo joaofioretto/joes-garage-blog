@@ -1,0 +1,11 @@
+Dockerfile
+
+deploy.sh
+
+dkprod.sh
+
+start_prod.sh
+
+dg.properties
+
+.venv/
